@@ -6,6 +6,8 @@ dust with e.g. a SG90 servo driven cover.
 
 For piloting the whole thing, an ESP32 that transmits the data back through MQTT.
 
+To draw the diagram , please use something like fritzing
+
 using:
 
 - [HC SR04 mockup](https://github.com/nohkumado/sensor_cases)
